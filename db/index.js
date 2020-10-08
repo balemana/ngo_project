@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const database_connection = 'mongodb+srv://admin:P%40ssword01@cluster0.tehnc.mongodb.net/globedrop_nodejs_course?retryWrites=true&w=majority'
+const database_connection = ''; // MongoDB URI
 
 const db = () =>{
     try {
